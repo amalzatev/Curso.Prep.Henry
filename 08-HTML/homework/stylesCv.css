@@ -1,0 +1,25 @@
+div{
+    font-size: 22px;
+    width: 700px;
+    color: blue;
+    background-color:#CEEDF3;
+    border-style:inherit;
+    border-color:rgb(9, 53, 90);
+}
+p{
+    font-size: 16px;
+    padding: 20px;
+    color: black;
+}
+h1{
+    font-size: 18px;
+    padding: 10px;
+}
+
+h2{
+    font-size: 16px;
+}
+ul{
+    font-size: 16px;
+    color: black;
+}
